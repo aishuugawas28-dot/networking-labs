@@ -1,2 +1,2 @@
 # networking-labs
-Networking practice labs using Cisco Packet Tracer and GNS3.
+Networking practice labs using Cisco Packet Tracer.
